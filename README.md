@@ -50,7 +50,7 @@ Data Analyst passionnée par l'analyse et la visualisation de données en **sant
 
 - [LinkedIn](https://www.linkedin.com/in/sylvia-chevalier-data-analyst)  
 - ✉️ Email : sylvia.mathieu@gmail.com  
-- 💼 Ouvert(e) à des **projets en data santé mentale, santé ou sciences humaines**
+-💡Ouvert(e) à tous types de **projets en data santé mentale, santé ou sciences humaines**
 
 ---
 
