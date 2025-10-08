@@ -7,7 +7,7 @@ Je transforme des données complexes en insights clairs et exploitables grâce �
 
 ![Open to work](https://img.shields.io/badge/Open%20to%20Work-Freelance-green?style=flat-square)
 
-🎯 Domaines : • Santé & santé mentale • Sciences humaines et sociales
+🎯 Domaines : 🧠 Santé mentale 📚 Sciences humaines et sociales
 
    🎓 Formations :  
 - 🎓 Masters en Psychologie & Sociologie  
