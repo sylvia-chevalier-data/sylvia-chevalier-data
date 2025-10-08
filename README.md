@@ -1,7 +1,6 @@
 # 👋 Bonjour, je suis Sylvia Chevalier
 
-Data Analyst passionnée par l'analyse et la visualisation de données en **santé** et **sciences humaines**.  
-Je transforme des données complexes en insights clairs et exploitables grâce à **Python**, **R**, **SQL** et **Tableau**.  
+Data Analyst passionnée par l'analyse et la visualisation de données en **santé** et **sciences humaines**, je transforme des données complexes en insights clairs et exploitables grâce à **Python**, **R**, **SQL** et **Tableau**.  
 
 💡 Je suis actuellement à la recherche de **projets freelance ou collaborations** en **santé** ou en **sciences humaines**.  
 
