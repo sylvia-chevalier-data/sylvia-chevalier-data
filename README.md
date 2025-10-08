@@ -33,7 +33,7 @@ Data Analyst passionnée par l'analyse et la visualisation de données en **sant
   [Voir le projet](https://github.com/tonpseudo/world-happiness)
 
 - **⚙️ Bottleneck Analysis (Python)**  
-  Analyse et identification des goulets d’étranglement dans les processus industriels.  
+  Nettoyage et gestion de données commerciales avec Python
   [Voir le projet](https://github.com/tonpseudo/bottleneck)
 
 - **📊 Projet SQL Facebook Data**  
