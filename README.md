@@ -28,20 +28,20 @@ Data Analyst passionnée par l'analyse et la visualisation de données en **sant
 
 ## 📂 Projets récents
 
-- **🌍 World Happiness Report Analysis (Python & R)**  
-  Analyse des facteurs de bonheur dans le monde avec Python et R.  
+- **🌍 World Happiness Report Analysis (R)**  
+  Analyse des facteurs de bonheur dans le monde avec R.  
   [Voir le projet](https://github.com/tonpseudo/world-happiness)
 
 - **⚙️ Bottleneck Analysis (Python)**  
-  Nettoyage et gestion de données commerciales avec Python
+  Nettoyage et gestion de données commerciales d'une boutique de vin avec Python (création d'un notebook sur Google colab)
   [Voir le projet](https://github.com/tonpseudo/bottleneck)
 
-- **📊 Projet SQL Facebook Data**  
-  Requêtes SQL sur les données Facebook : engagement, portée, répartition par ville, pays, âge et genre.  
+- **📊 Projet SQL Facebook Data (**  
+  Requêtes SQL sur les données Facebook d'un magazine en ligne : engagement, portée, répartition par ville, pays, âge et genre.  
   [Voir le projet](https://github.com/tonpseudo/facebook-sql)
 
-- **💉 Dashboard Santé (Tableau)**  
-  Tableau de bord interactif sur les données de santé publique.  
+- **💉 Dashboard Santé (Tableau Public)**  
+  Création d'un tableau de bord interactif pour suivre les KPI d'une entreprise pharmaceutique
   [Voir le projet](https://github.com/tonpseudo/dashboard-sante)
 
 --- 
@@ -50,7 +50,7 @@ Data Analyst passionnée par l'analyse et la visualisation de données en **sant
 
 - [LinkedIn](https://www.linkedin.com/in/sylvia-chevalier-data-analyst)  
 - ✉️ Email : sylvia.mathieu@gmail.com  
-- 💼 Ouvert(e) à des **projets en data santé ou sciences humaines**
+- 💼 Ouvert(e) à des **projets en data santé mentale, santé ou sciences humaines**
 
 ---
 
