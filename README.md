@@ -42,7 +42,7 @@ Data Analyst passionnée par l'analyse et la visualisation de données en **sant
 
 - **🌍 Analyse World Happiness Report (R)**  
   Analyse des facteurs influençant la perception du bonheur dans le monde avec R.  
-  [Voir le projet](https://github.com/sylvia-chevalier-data/World-Happiness-Report-2024/blob/main/rapport-quarto.pdf))
+  [Voir le projet](https://github.com/sylvia-chevalier-data/World-Happiness-Report-2024/blob/main/README.md)
 
 --- 
 
