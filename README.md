@@ -29,15 +29,15 @@ Data Analyst passionnée par l'analyse et la visualisation de données en **sant
 ## 📂 Projets récents
 
 - **⚙️ Analyse Bottleneck (Python)**  
-  Nettoyage et gestion des données commerciales d'une boutique de vin avec Python (création d'un notebook sur Google colab).
-   [Voir le projet](https://github.com/sylvia-chevalier-data/BottleNeck)
+  Nettoyage et gestion des données commerciales d'une boutique de vin avec Python (création d'un notebook sur Google Colab).  
+  [Voir le projet](https://github.com/sylvia-chevalier-data/BottleNeck)
 
 - **📊 Optimiser une stratégie social media avec SQL (DB Browser for SQLite)**  
-   Requêtes SQL sur les données Facebook d'un magazine en ligne : engagement, portée, répartition par ville, pays, âge et genre.  
+  Requêtes SQL sur les données Facebook d'un magazine en ligne : engagement, portée, répartition par ville, pays, âge et genre.  
   [Voir le projet](https://github.com/sylvia-chevalier-data/social-media)
 
 - **💉 Tableau de bord Santé (Tableau Public)**  
-  Création d'un tableau de bord interactif pour suivre les KPI d'une entreprise pharmaceutique.
+  Création d'un tableau de bord interactif pour suivre les KPI d'une entreprise pharmaceutique.  
   [Voir le projet](https://github.com/tonpseudo/dashboard-sante)
 
 - **🌍 Analyse World Happiness Report (R)**  
