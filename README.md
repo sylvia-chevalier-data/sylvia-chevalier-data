@@ -21,7 +21,7 @@ Data Analyst passionnée par l'analyse et la visualisation de données en **sant
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=postgresql&logoColor=white)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
+![Tableau Public](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 
 ---
