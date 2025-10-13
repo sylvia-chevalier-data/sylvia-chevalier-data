@@ -10,7 +10,7 @@ Data Analyst passionnée par l'analyse et la visualisation de données en **sant
 
    🎓 Formations :  
 - 🎓 Masters en Psychologie & Sociologie  
-- 📘 OpenClassrooms : Data Analyst – module expert (Tableau, SQL et Python)  
+- 📘 OpenClassrooms : Data Analyst – module expert (Tableau Public, SQL et Python)  
 - 🟢 Google Career Certificate : Data Analytics  
 - 🟠 DataCamp : Python, R, SQL
 
