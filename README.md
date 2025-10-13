@@ -30,7 +30,7 @@ Data Analyst passionnée par l'analyse et la visualisation de données en **sant
 
 - **⚙️ Analyse Bottleneck (Python)**  
   Nettoyage et gestion des données commerciales d'une boutique de vin avec Python (création d'un notebook sur Google Colab).  
-  [Voir le projet](https://github.com/sylvia-chevalier-data/BottleNeck)
+  [Voir le projet](https://github.com/sylvia-chevalier-data/BottleNeck/blob/main/README.md)
 
 - **📊 Optimiser une stratégie social media avec SQL (DB Browser for SQLite)**  
   Requêtes SQL sur les données Facebook d'un magazine en ligne : engagement, portée, répartition par ville, pays, âge et genre.  
