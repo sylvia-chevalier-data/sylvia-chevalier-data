@@ -34,7 +34,7 @@ Data Analyst passionnée par l'analyse et la visualisation de données en **sant
 
 - **📊 Optimiser une stratégie social media avec SQL (DB Browser for SQLite)**  
   Requêtes SQL sur les données Facebook d'un magazine en ligne : engagement, portée, répartition par ville, pays, âge et genre.  
-  [Voir le projet](https://github.com/sylvia-chevalier-data/social-media)
+  [Voir le projet](https://github.com/sylvia-chevalier-data/social-media/blob/main/Sylvia_Chevalier_document_de_%20spécification_juillet_2025.pdf)
 
 - **💉 Tableau de bord Santé (Tableau Public)**  
   Création d'un tableau de bord interactif pour suivre les KPI d'une entreprise pharmaceutique.  
