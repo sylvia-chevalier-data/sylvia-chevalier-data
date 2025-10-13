@@ -38,7 +38,7 @@ Data Analyst passionnée par l'analyse et la visualisation de données en **sant
 
 - **💉 Tableau de bord Santé (Tableau Public)**  
   Création d'un tableau de bord interactif pour suivre les KPI d'une entreprise pharmaceutique.  
-  [Voir le projet](https://public.tableau.com/authoring/DentalPharmaDashboardfinal2/Tableaudebord#1)
+  [Voir le projet](https://github.com/sylvia-chevalier-data/Dental_Pharma/blob/main/README.md)
 
 - **🌍 Analyse World Happiness Report (R)**  
   Analyse des facteurs influençant la perception du bonheur dans le monde avec R.  
