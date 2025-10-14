@@ -58,8 +58,6 @@ Mes formations :
   Analyse des facteurs influençant la perception du bonheur dans le monde avec R.  
   [Voir le projet](https://github.com/sylvia-chevalier-data/World-Happiness-Report-2024/blob/main/README.md)
 
-  - **🧠 [Analyse de l’impact de la durée de séjour sur la santé mentale des étudiants internationaux](lien_vers_readme_du_projet)**  
-
 --- 
 
 ## 📬 Contact
