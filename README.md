@@ -16,7 +16,11 @@ Je transforme des données complexes en **insights clairs et exploitables** grâ
 
 ![Open to work](https://img.shields.io/badge/Open%20to%20Work-Freelance-green?style=flat-square)
 
-🎯 Domaines : 🧠 Santé mentale 📚 Sciences humaines et sociales
+🎯 Domaines : <p align="center">
+  <img width="80" height="80" src="https://github.com/user-attachments/assets/f840666a-588f-46c0-b7ed-7df1ac88389b" />
+  <img width="80" height="80" src="https://github.com/user-attachments/assets/5cbaf44b-e75e-4a91-a299-d71beb21e2d5" />
+  <img width="80" height="80" src="https://github.com/user-attachments/assets/fe35a854-bb69-4c42-8a13-bde630b432ca" />
+</p>
 
 Mes formations :  
 - 🎓 Masters en Psychologie & Sociologie  
