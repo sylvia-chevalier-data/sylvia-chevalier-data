@@ -1,6 +1,6 @@
 # Sylvia Chevalier  
 ### *Data Analyst spécialisée en sciences humaines et sociales, santé mentale et santé publique*  
-> *Comprendre l’humain grâce à la donnée.*
+> *Comprendre l’humain grâce à la donnée :* *"les données ne prennent sens que lorsqu’on les relie aux personnes qu’elles représentent."*
 
 # 👋 Bienvenue sur mon GitHub !
 
@@ -71,8 +71,6 @@ Mes formations :
 -💡Ouvert(e) à tous types de **projets en data santé mentale, santé publique ou sciences humaines et sociales**
 
 ---
-
-> 🧠 *"Les données ne prennent sens que lorsqu’on les relie aux personnes qu’elles représentent."*
 
 https://cdn-icons-png.flaticon.com/512/2966/2966481.png<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e15f1d38-680e-4fb6-a4f2-de7c13dce0b9" />
 
