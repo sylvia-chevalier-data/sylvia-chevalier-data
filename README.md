@@ -1,14 +1,24 @@
-# 👋 Bonjour, je suis Sylvia Chevalier
+# Sylvia Chevalier  
+### *Data Analyst spécialisée en sciences humaines et sociales, santé mentale et santé publique*  
+> *Comprendre l’humain grâce à la donnée.*
 
-Data Analyst passionnée par l'analyse et la visualisation de données en **santé** et **sciences humaines**, je transforme des données complexes en insights clairs et exploitables grâce à **Python**, **R**, **SQL** et **Tableau**.  
+# 👋 Bienvenue sur mon GitHub !
 
-💡 Je suis actuellement à la recherche de **projets freelance ou collaborations** en **santé** ou en **sciences humaines**.  
+Je m'appelle **Sylvia Chevalier**, Data Analyst passionnée par les **sciences humaines et sociales**, et plus particulièrement par la **santé mentale** et les **données de santé**.  
+
+Issue d’un parcours en **psychologie et sociologie**, j’ai complété plusieurs formations spécialisées en **analyse de données** *(Google, DataCamp, OpenClassrooms)*.  
+
+🎯 Mon objectif : utiliser la data pour **mieux comprendre les comportements humains** et **améliorer la prévention en santé mentale et en santé publique**.  
+
+Je transforme des données complexes en **insights clairs et exploitables** grâce à **Python**, **R**, **SQL** et **Tableau**.  
+
+💡 Je suis actuellement à la recherche de **projets freelance** ou de **collaborations** dans les domaines de la **santé** ou des **sciences humaines et sociales**.
 
 ![Open to work](https://img.shields.io/badge/Open%20to%20Work-Freelance-green?style=flat-square)
 
 🎯 Domaines : 🧠 Santé mentale 📚 Sciences humaines et sociales
 
-   🎓 Formations :  
+Mes formations :  
 - 🎓 Masters en Psychologie & Sociologie  
 - 📘 OpenClassrooms : Data Analyst – module expert (Tableau Public, SQL et Python)  
 - 🟢 Google Career Certificate : Data Analytics  
@@ -44,14 +54,28 @@ Data Analyst passionnée par l'analyse et la visualisation de données en **sant
   Analyse des facteurs influençant la perception du bonheur dans le monde avec R.  
   [Voir le projet](https://github.com/sylvia-chevalier-data/World-Happiness-Report-2024/blob/main/README.md)
 
+  - **🧠 [Analyse de l’impact de la durée de séjour sur la santé mentale des étudiants internationaux](lien_vers_readme_du_projet)**  
+
 --- 
 
 ## 📬 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/sylvia-chevalier-data-analyst)  
 - ✉️ Email : sylvia.mathieu@gmail.com  
--💡Ouvert(e) à tous types de **projets en data santé mentale, santé ou sciences humaines**
+-💡Ouvert(e) à tous types de **projets en data santé mentale, santé publique ou sciences humaines et sociales**
 
 ---
 
-> "Transformer les données en histoires compréhensibles ! 📊"
+> 🧠 *"Les données ne prennent sens que lorsqu’on les relie aux personnes qu’elles représentent."*
+
+https://cdn-icons-png.flaticon.com/512/2966/2966481.png<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e15f1d38-680e-4fb6-a4f2-de7c13dce0b9" />
+
+
+
+
+
+
+
+ 
+
+
