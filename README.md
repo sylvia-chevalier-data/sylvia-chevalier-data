@@ -76,7 +76,8 @@ Analyse des effets de l’expatriation étudiante sur la santé mentale à l’a
 
 ---
 
-https://cdn-icons-png.flaticon.com/512/2966/2966481.png<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e15f1d38-680e-4fb6-a4f2-de7c13dce0b9" />
+
+
 
 
 
