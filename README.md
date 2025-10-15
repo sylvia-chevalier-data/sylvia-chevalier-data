@@ -60,7 +60,7 @@ Mes formations :
 
 - **🧠 Impact de la durée de séjour sur la santé mentale des étudiants internationaux (SQL)**  
 Analyse des effets de l’expatriation étudiante sur la santé mentale à l’aide de données internationales.  
-[Voir le projet](LIEN_A_REMPLACER)
+[Voir le projet](https://github.com/sylvia-chevalier-data/Analyzing-Students-Mental-Health/blob/main/README.md)
 
 - **🌍 Analyse World Happiness Report (R)**  
   Analyse des facteurs influençant la perception du bonheur dans le monde avec R.  
