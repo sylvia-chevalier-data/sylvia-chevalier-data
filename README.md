@@ -63,7 +63,7 @@ Analyse des effets de l’expatriation étudiante sur la santé mentale à l’a
 [Voir le projet](https://github.com/sylvia-chevalier-data/Analyzing-Students-Mental-Health/blob/main/README.md)
 
 - **🌍 Analyse World Happiness Report (R)**  
-  Analyse des facteurs influençant la perception du bonheur dans le monde avec R.  
+  Analyse des facteurs influençant la perception du bonheur dans le monde.  
   [Voir le projet](https://github.com/sylvia-chevalier-data/World-Happiness-Report-2024/blob/main/README.md)
 
 --- 
