@@ -58,6 +58,10 @@ Mes formations :
   Création d'un tableau de bord interactif pour suivre les KPI d'une entreprise pharmaceutique.  
   [Voir le projet](https://github.com/sylvia-chevalier-data/Dental_Pharma/blob/main/README.md)
 
+- **🧠 Impact de la durée de séjour sur la santé mentale des étudiants internationaux (SQL)**  
+Analyse des effets de l’expatriation étudiante sur la santé mentale à l’aide de données internationales.  
+[Voir le projet](LIEN_A_REMPLACER)
+
 - **🌍 Analyse World Happiness Report (R)**  
   Analyse des facteurs influençant la perception du bonheur dans le monde avec R.  
   [Voir le projet](https://github.com/sylvia-chevalier-data/World-Happiness-Report-2024/blob/main/README.md)
